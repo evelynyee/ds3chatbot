@@ -6,7 +6,7 @@ DS3 2023 Project Cohort - Chatbot (Transformer + RL Language Model)
 ## Current Schedule:
 | Goal | Date| On Track? |
 | ------------- | ------------- | ------------- |
-| Set up GitHub, schedule meeting | January 31 | Yes |
+| Set up GitHub, schedule meeting | January 31 | Complete |
 | Decide chatbot goal | February 3 | Yes |
 | Chatbot v1 started | February 6 | Yes |
 | Chatbot v1 ready to train | March 18 | Yes |
